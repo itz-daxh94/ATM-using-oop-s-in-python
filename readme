@@ -1,0 +1,30 @@
+# ATM System
+
+A simple ATM system implemented in Python using Tkinter for the GUI and MySQL for data storage.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Requirements](#requirements)
+
+
+## Introduction
+
+The ATM System is a basic application that simulates an Automated Teller Machine (ATM). It provides functionalities such as user authentication (login and registration), depositing and withdrawing money, and checking account balances. The system is implemented in Python, with Tkinter for the graphical user interface and MySQL for data storage.
+
+## Features
+
+- **User Authentication:** Log in securely with your account or register a new one.
+- **Deposit Money:** Add funds to your account balance.
+- **Withdraw Money:** Make withdrawals while ensuring sufficient balance.
+- **Check Account Balance:** View your current account balance.
+- **Intuitive User Interface:** Simple and easy-to-use graphical interface.
+
+## Requirements
+
+To run this project locally, ensure you have the following installed:
+
+- Python 3.x
+- Tkinter (usually included with Python installations)
+- MySQL server
